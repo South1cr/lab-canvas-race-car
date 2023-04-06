@@ -17,6 +17,10 @@ body {
   width: 350px;
 }
 
+#game-over {
+  font-size: 70px;
+  color: red;
+}
 .arrows-img {
   width: 150px;
 }
